@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T11:49:11.559Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="2lrI09ygQM5A9epfhYtB" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T13:44:46.207Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="TZCCuOgRxr4RjJjGAA2r" version="21.3.3" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="994" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,11 +67,13 @@
         <mxCell id="_VE5QZipBekw-OrBoyfd-10" value="&lt;div&gt;&lt;font color=&quot;#000033&quot;&gt;Backend/Server&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="365" y="102" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_VE5QZipBekw-OrBoyfd-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6666;" edge="1" parent="1" source="_VE5QZipBekw-OrBoyfd-14" target="_VE5QZipBekw-OrBoyfd-7">
+        <mxCell id="_VE5QZipBekw-OrBoyfd-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6666;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="370" as="sourcePoint" />
+            <mxPoint x="205" y="401" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="725" y="422" />
-              <mxPoint x="210" y="422" />
+              <mxPoint x="455" y="450" />
+              <mxPoint x="205" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -88,6 +90,21 @@
         <mxCell id="_VE5QZipBekw-OrBoyfd-89" value="Token Revoked" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_VE5QZipBekw-OrBoyfd-66">
           <mxGeometry x="-0.7335" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VE5QZipBekw-OrBoyfd-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.002;exitY=0.12;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF6666;" edge="1" parent="1" source="_VE5QZipBekw-OrBoyfd-10" target="_VE5QZipBekw-OrBoyfd-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="109" />
+              <mxPoint x="590" y="70" />
+              <mxPoint x="780" y="70" />
+              <mxPoint x="780" y="177" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VE5QZipBekw-OrBoyfd-92" value="Token Revoked" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_VE5QZipBekw-OrBoyfd-91">
+          <mxGeometry x="0.0338" y="2" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_VE5QZipBekw-OrBoyfd-14" value="&lt;div&gt;&lt;font color=&quot;#333300&quot;&gt;DB&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">

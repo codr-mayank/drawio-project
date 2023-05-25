@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T11:48:00.220Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="RjeQnL0W8zkB7ckYnIXV" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T11:49:11.559Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="2lrI09ygQM5A9epfhYtB" version="21.3.3" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="994" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="994" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,12 +77,17 @@
         </mxCell>
         <mxCell id="_VE5QZipBekw-OrBoyfd-67" value="&lt;div&gt;Logout&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_VE5QZipBekw-OrBoyfd-66">
           <mxGeometry x="0.1055" y="-2" relative="1" as="geometry">
-            <mxPoint y="2" as="offset" />
+            <mxPoint x="59" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_VE5QZipBekw-OrBoyfd-68" value="{Ack}" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_VE5QZipBekw-OrBoyfd-66">
           <mxGeometry x="0.512" y="-3" relative="1" as="geometry">
             <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VE5QZipBekw-OrBoyfd-89" value="Token Revoked" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_VE5QZipBekw-OrBoyfd-66">
+          <mxGeometry x="-0.7335" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_VE5QZipBekw-OrBoyfd-14" value="&lt;div&gt;&lt;font color=&quot;#333300&quot;&gt;DB&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
